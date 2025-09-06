@@ -1,2 +1,9 @@
 scramble.sh
+unscramble.sh
 */*.json
+*/*.jpeg
+*/*.png
+*/*.svg
+*/*.ico
+*.log
+.DS_Store
