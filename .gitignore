@@ -7,3 +7,4 @@ unscramble.sh
 */*.ico
 *.log
 .DS_Store
+*/*.pdf
