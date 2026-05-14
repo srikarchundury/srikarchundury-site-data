@@ -5,7 +5,7 @@
             {
                 "title": "Student Assistant",
                 "start": "May 2026",
-                "end": "Present",
+                "end": "August 2026",
                 "location": "Berkeley, California, United States",
                 "description": "Mentors: Dr. Doru Thom Popovici and Dr. Katherine Klymko. Performing large-scale hybrid qubit-qumode (CV/DV) simulations on HPC systems; developing and optimizing simulation kernels; running benchmarking studies; analyzing performance and scalability; and contributing technical improvements to hybrid quantum simulation workflows."
             }
@@ -17,7 +17,7 @@
             {
                 "title": "GRO Intern (ORISE)",
                 "start": "May 2025",
-                "end": "Present",
+                "end": "August 2025",
                 "location": "Oak Ridge, Tennessee, United States",
                 "description": "Contributing to research at the intersection of quantum computing and high-performance computing (HPC)."
             },
