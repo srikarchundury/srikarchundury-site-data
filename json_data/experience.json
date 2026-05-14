@@ -1,0 +1,102 @@
+[
+    {
+        "organization": "Lawrence Berkeley National Laboratory",
+        "roles": [
+            {
+                "title": "Student Assistant",
+                "start": "May 2026",
+                "end": "Present",
+                "location": "Berkeley, California, United States",
+                "description": "Mentors: Dr. Doru Thom Popovici and Dr. Katherine Klymko. Performing large-scale hybrid qubit-qumode (CV/DV) simulations on HPC systems; developing and optimizing simulation kernels; running benchmarking studies; analyzing performance and scalability; and contributing technical improvements to hybrid quantum simulation workflows."
+            }
+        ]
+    },
+    {
+        "organization": "Oak Ridge National Laboratory",
+        "roles": [
+            {
+                "title": "GRO Intern (ORISE)",
+                "start": "May 2025",
+                "end": "Present",
+                "location": "Oak Ridge, Tennessee, United States",
+                "description": "Contributing to research at the intersection of quantum computing and high-performance computing (HPC)."
+            },
+            {
+                "title": "Graduate Research Intern",
+                "start": "May 2024",
+                "end": "August 2024",
+                "location": "Oak Ridge, Tennessee, United States",
+                "description": "Supported the HPC/Quantum Integration Project, focusing on advanced technology integration and research."
+            },
+            {
+                "title": "Graduate Student Researcher (ORISE)",
+                "start": "May 2023",
+                "end": "July 2023",
+                "location": "Knoxville, Tennessee, United States",
+                "description": "Conducted research in Quantum Natural Language Processing under the guidance of Dr. In-Saeng Suh."
+            }
+        ]
+    },
+    {
+        "organization": "North Carolina State University",
+        "roles": [
+            {
+                "title": "Graduate Research Assistant",
+                "start": "September 2022",
+                "end": "Present",
+                "location": "Raleigh, NC, United States",
+                "description": "Researching high-performance tensor network contraction optimizations under Dr. Frank Mueller."
+            }
+        ]
+    },
+    {
+        "organization": "Walmart Global Tech",
+        "roles": [
+            {
+                "title": "Software Development Engineer 3",
+                "start": "August 2021",
+                "end": "July 2022",
+                "location": "Bengaluru, India",
+                "description": "Developed scalable microservices in Go and microfrontends in React, deployed on Walmart's cloud-native Kubernetes platform."
+            },
+            {
+                "title": "Software Development Engineer II",
+                "start": "August 2019",
+                "end": "August 2021",
+                "location": "Bengaluru, India",
+                "description": "Led full-stack development of orchestration tools to automate infrastructure lifecycle management."
+            },
+            {
+                "title": "Software Development Intern",
+                "start": "January 2019",
+                "end": "July 2019",
+                "location": "Bengaluru, India",
+                "description": "Designed and implemented a dynamic task scheduler using Python, Flask, and React.js for infrastructure maintenance."
+            }
+        ]
+    },
+    {
+        "organization": "Centre for Cloud Computing and Big Data, PES University",
+        "roles": [
+            {
+                "title": "Research Assistant",
+                "start": "May 2017",
+                "end": "July 2019",
+                "location": "Bengaluru, India",
+                "description": "Collaborated with Dr. Subramaniam Kalambur on research projects including Sameeksha and Green Bangalore."
+            }
+        ]
+    },
+    {
+        "organization": "AMD",
+        "roles": [
+            {
+                "title": "Co-Op",
+                "start": "May 2018",
+                "end": "July 2018",
+                "location": "Bengaluru, India",
+                "description": "Benchmarked AMD and Intel processors for kernel-level workloads such as netperf."
+            }
+        ]
+    }
+]

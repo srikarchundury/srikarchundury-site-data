@@ -1,0 +1,51 @@
+{
+  "intro": {
+    "eyebrow": "Research Overview",
+    "headline": "Accelerator Systems, Quantum Simulation, and Scalable HPC",
+    "subheadline": "I build high-performance software systems for quantum and HPC workloads, bridging research ideas and production-quality implementations."
+  },
+  "hero": {
+    "primaryCtaLabel": "View Publications",
+    "primaryCtaHref": "/publications",
+    "secondaryCtaLabel": "Collaborate",
+    "secondaryCtaHref": "mailto:schundu3@ncsu.edu",
+    "ctaDescription": "Interested in collaboration on HPC systems, quantum simulation, or performance engineering."
+  },
+  "highlights": {
+    "publicationsCount": 4,
+    "projectsCount": 4,
+    "honorsCount": 3,
+    "educationCount": 2,
+    "experienceCount": 3
+  },
+  "sectionsOrder": [
+    "publications",
+    "projects",
+    "honors",
+    "education",
+    "experience",
+    "news",
+    "cta"
+  ],
+  "sectionLabels": {
+    "publications": "Selected Publications",
+    "projects": "Selected Projects",
+    "honors": "Recent Honors",
+    "education": "Education Snapshot",
+    "experience": "Experience Snapshot",
+    "news": "Updates",
+    "cta": "Work Together"
+  },
+  "news": [
+    {
+      "title": "ICS 2026 paper accepted on diagonal-budgeted trotterization",
+      "date": "2026-03-01",
+      "link": "https://dl.acm.org/doi/10.1145/3797905.3807869"
+    },
+    {
+      "title": "QFw scaling work published in SC 2025 workshops",
+      "date": "2025-11-01",
+      "link": "https://dl.acm.org/doi/10.1145/3731599.3767553"
+    }
+  ]
+}
