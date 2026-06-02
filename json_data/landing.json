@@ -1,15 +1,15 @@
 {
   "intro": {
-    "eyebrow": "Research Overview",
-    "headline": "Accelerator Systems, Quantum Simulation, and Scalable HPC",
-    "subheadline": "I build high-performance software systems for quantum and HPC workloads, bridging research ideas and production-quality implementations."
+    "eyebrow": "Research",
+    "headline": "HPC Systems and Quantum Simulation",
+    "subheadline": "I work on high-performance software for accelerator systems, quantum simulation, and AI workloads."
   },
   "hero": {
     "primaryCtaLabel": "View Publications",
     "primaryCtaHref": "/publications",
-    "secondaryCtaLabel": "Collaborate",
+    "secondaryCtaLabel": "Contact",
     "secondaryCtaHref": "mailto:schundu3@ncsu.edu",
-    "ctaDescription": "Interested in collaboration on HPC systems, quantum simulation, or performance engineering."
+    "ctaDescription": "Open to research and engineering collaborations in HPC and quantum systems."
   },
   "highlights": {
     "publicationsCount": 4,
@@ -31,10 +31,10 @@
     "publications": "Selected Publications",
     "projects": "Selected Projects",
     "honors": "Recent Honors",
-    "education": "Education Snapshot",
-    "experience": "Experience Snapshot",
+    "education": "Education",
+    "experience": "Experience",
     "news": "Updates",
-    "cta": "Work Together"
+    "cta": "Contact"
   },
   "news": [
     {
