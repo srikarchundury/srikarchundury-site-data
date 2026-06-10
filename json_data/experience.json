@@ -7,7 +7,7 @@
                 "start": "May 2026",
                 "end": "August 2026",
                 "location": "Berkeley, California, United States",
-                "description": "Mentors: Dr. Doru Thom Popovici and Dr. Katherine Klymko. Performing large-scale hybrid qubit-qumode (CV/DV) simulations on HPC systems; developing and optimizing simulation kernels; running benchmarking studies; analyzing performance and scalability; and contributing technical improvements to hybrid quantum simulation workflows."
+                "description": "Developing and optimizing hybrid qubit-qumode (CV/DV) simulation kernels on HPC systems. Running performance and scalability benchmarks. Mentors: Dr. Doru Thom Popovici and Dr. Katherine Klymko."
             }
         ]
     },
@@ -19,7 +19,7 @@
                 "start": "May 2025",
                 "end": "August 2025",
                 "location": "Oak Ridge, Tennessee, United States",
-                "description": "Contributed to QFw scaling research published at SC'25 Workshops and QCE'25. Developed and evaluated hybrid quantum-HPC workflows leveraging Slurm and GPU acceleration under Dr. In-Saeng Suh."
+                "description": "Contributed to QFw scaling work published at SC'25 Workshops and QCE'25. Implemented and benchmarked hybrid quantum-HPC workflows on Slurm-based GPU clusters."
             },
             {
                 "title": "Graduate Research Intern",
@@ -57,14 +57,14 @@
                 "start": "August 2021",
                 "end": "July 2022",
                 "location": "Bengaluru, India",
-                "description": "Developed scalable microservices in Go and microfrontends in React, deployed on Walmart's cloud-native Kubernetes platform."
+                "description": "Built microservices in Go and microfrontends in React on Walmart's Kubernetes platform."
             },
             {
                 "title": "Software Development Engineer II",
                 "start": "August 2019",
                 "end": "August 2021",
                 "location": "Bengaluru, India",
-                "description": "Led full-stack development of orchestration tools to automate infrastructure lifecycle management."
+                "description": "Built orchestration tools to automate lifecycle management of Walmart's global infrastructure (stores, distribution centers, data centers)."
             },
             {
                 "title": "Software Development Intern",
