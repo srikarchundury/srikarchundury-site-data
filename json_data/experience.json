@@ -19,21 +19,21 @@
                 "start": "May 2025",
                 "end": "August 2025",
                 "location": "Oak Ridge, Tennessee, United States",
-                "description": "Contributing to research at the intersection of quantum computing and high-performance computing (HPC)."
+                "description": "Contributed to QFw scaling research published at SC'25 Workshops and QCE'25. Developed and evaluated hybrid quantum-HPC workflows leveraging Slurm and GPU acceleration under Dr. In-Saeng Suh."
             },
             {
                 "title": "Graduate Research Intern",
                 "start": "May 2024",
                 "end": "August 2024",
                 "location": "Oak Ridge, Tennessee, United States",
-                "description": "Supported the HPC/Quantum Integration Project, focusing on advanced technology integration and research."
+                "description": "Co-developed the QFw quantum framework and demonstrated multi-node QAOA scaling on HPC systems, resulting in Best Poster at QCUF 2024 and Top-6 Finalist at SC 2024."
             },
             {
                 "title": "Graduate Student Researcher (ORISE)",
                 "start": "May 2023",
                 "end": "July 2023",
                 "location": "Knoxville, Tennessee, United States",
-                "description": "Conducted research in Quantum Natural Language Processing under the guidance of Dr. In-Saeng Suh."
+                "description": "Developed a PEPS-based tensor network extension to TNQVM, published at QCE'23. Conducted research in quantum simulation under Dr. In-Saeng Suh."
             }
         ]
     },
