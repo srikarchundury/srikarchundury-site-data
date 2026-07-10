@@ -1,6 +1,6 @@
 scramble.sh
 unscramble.sh
-*/*.json
+*/**.json
 */*.jpeg
 */*.png
 */*.svg
